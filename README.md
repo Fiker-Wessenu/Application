@@ -18,3 +18,7 @@ Group B3: Cloud Functions & Notifications
 Cloud Function: addGroupMember / removeGroupMember
 Cloud Function: fan-out logic for FCM notifications on new messages
 Cloud Function: cleanup/maintenance (orphaned Storage files on message deletion)
+
+
+
+backend folder: https://github.com/Fiker-Wessenu/Orbit
