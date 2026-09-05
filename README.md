@@ -25,4 +25,5 @@ backend folder: https://github.com/Fiker-Wessenu/Orbit
 
 Frontend folder1: https://github.com/Mahiii43m/Telegram-clone
 
-Integrated: https://github.com/Fiker-Wessenu/NewIntegrated
+Integrated: https://github.com/Fiker-Wessenu/NewIntegrate
+Last Integrated: https://github.com/Fiker-Wessenu/Last-Integrated
